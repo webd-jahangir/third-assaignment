@@ -1,12 +1,13 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./index.html"],
+  content: ["./index.html", "./src/**/*.js"],
   theme: {
     extend: {
       fontFamily: {
         'manrope': ['Manrope', 'sans-serif'],
       },
-     
+      colors: {
+        customGreen: '#ABEF5F',
+      },
     },
   },
   plugins: [],
