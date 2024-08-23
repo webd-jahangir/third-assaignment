@@ -599,7 +599,7 @@ video {
   border-radius: 9999px;
 }
 
-.bg-customGreen {
+.bg-\[\#ABEF5F\] {
   --tw-bg-opacity: 1;
   background-color: rgb(171 239 95 / var(--tw-bg-opacity));
 }
@@ -628,7 +628,7 @@ video {
   --tw-gradient-to: #f1f5f9 var(--tw-gradient-to-position);
 }
 
-.fill-customGreen {
+.fill-\[\#ABEF5F\] {
   fill: #ABEF5F;
 }
 
